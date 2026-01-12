@@ -1072,5 +1072,32 @@
       }
     },
     "timestamp": 1768184543000
+  },
+  {
+    "id": "3EB052732E4256E3264D46",
+    "jid": "status@broadcast",
+    "message": {
+      "key": {
+        "remoteJid": "status@broadcast",
+        "fromMe": true,
+        "id": "3EB052732E4256E3264D46"
+      },
+      "message": {
+        "reactionMessage": {
+          "key": {
+            "remoteJid": "status@broadcast",
+            "fromMe": false,
+            "id": "AC55837AECEFCB422310AB1020D270C4",
+            "participant": "94785822851@s.whatsapp.net"
+          },
+          "text": "🌟",
+          "senderTimestampMs": "1768184492480"
+        }
+      },
+      "messageTimestamp": "1768184492",
+      "status": "PENDING",
+      "participant": "94765749332:73@s.whatsapp.net"
+    },
+    "timestamp": 1768184492000
   }
 ]
